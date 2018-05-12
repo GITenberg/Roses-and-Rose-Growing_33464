@@ -1,0 +1,32 @@
+_repo: Roses-and-Rose-Growing_33464
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Page-Roberts, F.
+    gutenberg_agent_id: '40758'
+    url: http://www.gutenberg.org/2009/agents/40758
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Rose Georgina
+    alias: Kingsley, Rose G. (Rose Georgiana)
+    birthdate: 1845
+    deathdate: 1925
+    gutenberg_agent_id: '36126'
+    url: http://www.gutenberg.org/2009/agents/36126
+description: ''
+gutenberg_issued: '2010-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Roses'
+title: Roses and Rose Growing
+url: http://www.gutenberg.org/ebooks/33464
